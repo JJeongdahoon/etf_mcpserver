@@ -1,0 +1,4 @@
+name: etf-mcp-server
+description: ETF API를 MCP로 제공하는 서버
+entrypoint: python mcp_server.py
+runtime: python
